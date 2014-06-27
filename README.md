@@ -1,8 +1,8 @@
-<!doctype html> 
+<!DOCTYPE html> 
 <html>
 <head>
 <meta charset="utf-8">
-<title></title>
+<title>Apuntes para comenzar con Python</title>
 </head>
 
 <body>

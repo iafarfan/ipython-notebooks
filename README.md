@@ -1,13 +1,6 @@
-<!DOCTYPE html> 
-<html>
-<head>
-<meta charset="utf-8">
-<title>Apuntes para comenzar con Python</title>
-</head>
+# Apuntes para comenzar con Python
 
-<body>
-<p>Bienvenido a mis apuntes (ipython Notebooks) para comenzar con Python</p>
-<p>Por: Italo Farfán Vera <a href="https://twitter.com/italoFFVV">@italoFFVV</a><p>
-</body>
-</html>
+Bienvenido a mis apuntes (ipython Notebooks)
+Italo Farfán Vera ([@italoFFVV](https://twitter.com/italoFFVV))
 
+Los notebooks se pueden previsualizar a través de: http://nbviewer.ipython.org/github/iafarfan/ipython-notebooks/tree/master/
